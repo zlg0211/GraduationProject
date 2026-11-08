@@ -2,6 +2,7 @@
   "dependencies": {
     "com.coplaydev.unity-mcp": "file:D:/Unity/__Tools/MCP文档+插件+必装软件/MCP文档+插件+必装软件/com.coplaydev.unity-mcp-10.0.0/package",
     "com.unity.collab-proxy": "2.12.4",
+    "com.unity.device-simulator.devices": "1.0.1",
     "com.unity.feature.2d": "2.0.1",
     "com.unity.ide.rider": "3.0.36",
     "com.unity.ide.visualstudio": "2.0.22",
